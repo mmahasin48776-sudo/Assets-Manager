@@ -1,0 +1,6 @@
+{
+  "name": "IT Asset Management",
+  "description": "A professional IT asset management system with employee tracking, lifecycle management, and cost analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
