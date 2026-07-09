@@ -137,7 +137,7 @@ export default function Login({ onLogin }: { onLogin: (user: any, token: string)
               style={{ width: '40mm', height: '45mm' }} 
             />
           </div>
-          <h1 className="text-2xl font-bold text-white tracking-tight mt-2">Homes Contracting Company</h1>
+          <h1 className="text-2xl font-bold text-white tracking-tight mt-2">Homes Contracting Company homes</h1>
           <p className="text-slate-400 mt-1 uppercase text-xs font-semibold tracking-widest">Assets Management System</p>
         </div>
 
