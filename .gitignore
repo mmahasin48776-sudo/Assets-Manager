@@ -6,3 +6,11 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# README
+README.md
